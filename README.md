@@ -114,7 +114,7 @@ Cash payment was only from the March-June, 2024, and it's in decreasing order. S
 **Objective:** Compare total sales and coffee types per quarter and per month to spot seasonal trends.  
 
 📊 **Insight:**  
-Q4, 2024 recorded the highest revenue, driven by winter beverage demand where in October, the sales was the highest of the whole year. On the first quarter of the 2025, highest revenue was collected on February
+Q4, 2024 recorded the highest revenue, driven by winter beverage demand where in October, the sales was the highest of the whole year. On the first quarter of the 2025, highest revenue was collected on February. After analyzing the top coffee sales each month, the top coffees sold were latte, cappucino, Americano with milk, and Americano.
 
 🔗 [View Notebook → `quarterly_analysis.ipynb`](6_quaterly_reports.ipynb)
 
