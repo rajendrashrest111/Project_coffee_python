@@ -4,7 +4,7 @@
 This project explores one year of coffee shop transaction data to uncover trends in **customer behavior, sales performance, and product popularity**.  
 Using SQL for data extraction and Python (Pandas + Seaborn) for visualization, I transformed raw transaction logs into meaningful insights.  
 
-The goal was to gain hands-on experience with **data analysis workflows** — from querying databases to visualizing and interpreting results.
+The goal was to gain hands-on experience with **data analysis workflows** from querying databases to visualizing and interpreting results.
 
 ---
 
